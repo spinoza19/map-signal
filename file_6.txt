@@ -1,4 +1,0 @@
-# map-signal
-Commit 7
-Date: 2025-05-03T19:37:10Z
-Improve error handling
