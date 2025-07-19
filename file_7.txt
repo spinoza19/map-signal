@@ -1,4 +1,0 @@
-# map-signal
-Commit 8
-Date: 2025-05-06T11:38:21Z
-Add documentation
