@@ -1,4 +1,0 @@
-# map-signal
-Commit 9
-Date: 2025-07-19T18:14:52Z
-Optimize performance
